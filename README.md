@@ -1,5 +1,4 @@
-
-# Exploring the Relationship between Movie Revenue and Year, Runtime, Popularity, and Budget in the 21st Century
+# Exploring the Relationship between 21st-Century Movie Revenue and Year, Runtime, Popularity, and Budget
 
 ## Table of Contents
 <ul>
